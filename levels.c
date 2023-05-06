@@ -1,3 +1,8 @@
+// Levels by Alexia Rivera <alexia.sadc@gmail.com>
+// This is free software licensed under a GNU GPL 3.0 License
+// See LICENSE for more information.
+// Source file. Requires gcc
+// ----------------------------------------------------------
 #include <stdio.h>
 #include <sys/stat.h>
 
